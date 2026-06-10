@@ -1,16 +1,49 @@
-# React + Vite
+# Spray Quote App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight web application for creating and managing spray-job quotations.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Google OAuth Authentication (In Progress)
+* Email Whitelist Access Control
+* Dynamic Quote Creation
+* Real-Time Price Calculation
+* Quote History Management
+* Google Sheets Integration
+* Mobile-Friendly Dashboard
+* Archive Quote Storage
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* Vite
+* JavaScript
+* Google Sheets API
+* Google OAuth
 
-## Expanding the ESLint configuration
+## Project Status
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚧 Currently under development.
+
+### Completed
+
+* React Project Setup
+* Dashboard Layout
+* Sidebar Navigation
+* Quote Management UI
+* Dynamic Price Calculation
+* Mock Google Sheets Integration
+
+### Upcoming
+
+* Google OAuth Login
+* Google Sheets API Integration
+* Quote Archive System
+* Edit Existing Quotes
+* Deployment to Vercel
+
+## Author
+
+Md. Mostofa Kamal
+
+GitHub: https://github.com/m0st0fa
